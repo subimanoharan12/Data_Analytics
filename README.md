@@ -1,40 +1,53 @@
-Sales Report :
-Project objective:
+# 📊 Sales & Finance Report Dashboard  
 
-1. Create a _customer performance report
+## 🎯 Project Objectives  
 
-2. Conduct a comprehensive comparison between _market performance and sales targets
+### 🧾 **Sales Report**
+- 📌 Create a **Customer Performance Report**.  
+- ⚖️ Conduct a **Market vs. Target Comparison** to evaluate overall performance.  
+- 🎯 **Purpose:** Enable businesses to monitor and evaluate sales activities and performance effectively.  
+- 💡 **Importance:** Identify sales patterns and track key performance indicators (**KPIs**).  
+- 🧠 **Role of Reports:**  
+  - Determine effective customer discounts.  
+  - Support negotiations with clients.  
+  - Identify potential business expansion opportunities in high-growth regions.  
 
-Purpose of sales analytics: Empower businesses to monitor and evaluate their sales activities and performance.
+---
 
-Importance of analyzing sales data: Identify sales patterns and track key performance indicators (KPIs).
+### 💰 **Finance Report**
+- 📊 Create **Profit & Loss (P&L)** reports by:  
+  - 📅 Fiscal Year  
+  - 🌍 Markets  
+  - 🗓️ Months  
+- 🎯 **Purpose:** Evaluate financial performance, support informed decision-making, and improve stakeholder communication.  
+- 💡 **Importance:** Benchmark financial performance against industry peers and historical periods — forming the foundation for **budgeting and forecasting**.  
+- 🧠 **Role of Reports:**  
+  - Align financial planning with strategic business goals.  
+  - Build confidence in the organization’s financial outlook.  
 
-Role of reports: Determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries.
+---
 
-Finance Report :
-Project objective:
+## 🛠️ Technical & Soft Skills  
 
-1. Create Profit and Loss (P&L) reports by _Fiscal Year
+### ⚙️ **Technical Skills**
+- ETL Methodology (**Extract, Transform, Load**).  
+- Power Query – generating custom **Date Tables**.  
+- Deriving **Fiscal Months** and **Quarters**.  
+- Building **Data Model Relationships** using **Power Pivot**.  
+- Integrating supplementary data into existing data models.  
+- Writing advanced **DAX** formulas for calculated columns and measures.  
 
-2. Create Profit and Loss (P&L) reports by _Markets
+### 🤝 **Soft Skills**
+- Strong understanding of **Sales & Finance analytics**.  
+- Designing **user-centric dashboards** with an emphasis on clarity and usability.  
+- Fine-tuning performance and optimizing data refresh times.  
+- Systematic approach to **report planning, design, and execution**.  
 
-3. Create Profit and Loss (P&L) reports by _Months
+---
 
-Purpose of sales analytics: Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
+## 🧩 Tools & Technologies  
+🧮 **Power BI** • 📊 **Excel** • 🧰 **Power Query** • ⚙️ **DAX** • 🧠 **Power Pivot**
 
-Importance of analyzing Finance data: Aid in benchmarking against industry peers and previous periods Foundation for budgeting and forecasting.
+---
 
-Role of reports: Align financial planning with strategic goals Instill confidence in the organization's financial outlook.
-
-Technical & Soft Skills:
- Proficiency in ETL methodology (Extract, Transform, Load).
- Skills to generate a date table using Power Query.
- Ability to derive fiscal months and quarters.
- Establishing data model relationships with Power Pivot.
- Proficiency in incorporating supplementary data into an existing data model.
- Utilizing DAX to create calculated columns.
-Soft Skills:
- Refined understanding of Sales & Finance Reports
- Designing user-centric reports with empathy in mind.
- Optimization of report generation through meticulous fine-tuning.
- Developing a systematic approach to devising a report building plan.
+> ✨ *This project showcases data visualization and business analytics skills — transforming raw data into actionable insights for Sales and Finance teams.*
