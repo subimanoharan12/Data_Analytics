@@ -1,4 +1,4 @@
-# 📊 Sales & Finance Report Dashboard  
+# 📊 Sales & Finance Report Dashboard 
 
 ## 🎯 Project Objectives  
 
